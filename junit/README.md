@@ -44,7 +44,7 @@ gradle test
 
 ![Zombie Apocalypse](http://vignette2.wikia.nocookie.net/zombie/images/4/41/Zombiegroup02.jpg/revision/latest?cb=20100111201702)
 
-My worst nightmare has come true - Zombies are taking over the world! Turns out, Galvanize students are the only ones who can help. Good thing we've got a bunch of those.
+My worst nightmare has come true - Zombies are taking over the world! Turns out, xLoop students are the only ones who can help. Good thing we've got a bunch of those.
 
 **Your task:** Write a program that fulfills several tests developed by the CDC so we can keep track of the Zombies, identify their victims, and learn Java doing it! It's the only way we can end the carnage and reestablish peace. Get going!
 
@@ -68,7 +68,7 @@ You'll see that the tests start with an `@Test` suffix. Each test is a method wh
 
 Checkout the `js-src` directory.  You'll see a fully-implemented `car_spec.js` and `car.js` file.
 
-Your job is to reimplement that in JavaScript.  Note that not only is the implementation incomplete, but not all of the tests have been ported over.  So your job is to add the two missing tests, and also make all of the tests pass.
+Your job is to reimplement that in Java.  Note that not only is the implementation incomplete, but not all of the tests have been ported over.  So your job is to add the two missing tests, and also make all of the tests pass.
 
 ## Resources
 
